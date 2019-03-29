@@ -1,2 +1,3 @@
 streamlink==1.0.0
+ffmpeg-python==0.1.17
 kafka==1.3.5
